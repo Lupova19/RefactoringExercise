@@ -35,7 +35,6 @@ namespace ListOfOddEvenNumbers
                 if (numberType == "even" && item % 2 == 0)
                 {
                     splitNumbers.Add(item);
-
                 }
                 else if (numberType == "odd" && item % 2 != 0)
                 {
